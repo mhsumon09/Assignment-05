@@ -1,0 +1,290 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#head {
+    background: crimson;
+    margin: 30px 0;
+    text-align: center;
+    padding: 5px 0;
+    font-size: 40px;
+    color: white;
+}
+
+.table {
+    height: 450px;
+    width: 800px;
+    background: rgb(216, 6, 6);
+    text-align: center;
+    margin: auto;
+}
+
+.row1 {
+    height: 150px;
+    width: 800px;
+    background: rgb(10, 209, 216);
+}
+
+.first {
+    height: 150px;
+    width: 400px;
+    background: rgb(216, 10, 206);
+    float: left;
+}
+
+.first1 {
+    height: 75px;
+    width: 400px;
+    background: rgb(108, 241, 96);
+}
+
+.prothom {
+    height: 75px;
+    width: 200px;
+    background: rgb(180, 84, 5);
+    float: left;
+}
+
+.prothom1 {
+    height: 37.5px;
+    width: 200px;
+    background: rgb(3, 92, 55);
+}
+
+.prothom1 h2 {
+    color: white;
+}
+
+.prothom2 {
+    height: 37.5px;
+    width: 200px;
+    background: rgb(64, 243, 168);
+}
+
+.prothom2 img {
+    height: 37.5px;
+    width: 200px;
+    background-size: contain;
+}
+
+.ditio {
+    height: 75px;
+    width: 200px;
+    background: rgb(61, 28, 1);
+    float: left;
+}
+
+.ditio img {
+    height: 75px;
+    width: 200px;
+    background-size: cover;
+}
+
+.first2 {
+    height: 75px;
+    width: 400px;
+    background: rgb(5, 83, 119);
+}
+
+.first2 img {
+    height: 75px;
+    width: 400px;
+}
+
+.second {
+    height: 150px;
+    width: 400px;
+    background: rgb(10, 13, 216);
+    float: left;
+}
+
+.second1 {
+    height: 75px;
+    width: 400px;
+    background: rgb(217, 3, 236);
+}
+
+.second1 img {
+    height: 75px;
+    width: 400px;
+    background-size: cover;
+}
+
+.second2 {
+    height: 75px;
+    width: 400px;
+    background: rgb(103, 2, 112);
+}
+
+.ditio1 {
+    height: 75px;
+    width: 200px;
+    background: rgb(4, 80, 196);
+    float: left;
+}
+
+.ditio1 img {
+    height: 75px;
+    width: 200px;
+}
+
+.ditio2 {
+    height: 75px;
+    width: 200px;
+    background: #76FF03;
+    float: left;
+}
+
+.ditio2 img {
+    height: 75px;
+    width: 200px;
+    background-size: cover;
+}
+
+
+/* ---------------------2nd row work------------------------ */
+
+.row2 {
+    height: 150px;
+    width: 800px;
+    background: rgb(34, 216, 10);
+}
+
+.one {
+    height: 75px;
+    width: 800px;
+    background: rgb(4, 145, 121);
+}
+
+.one p {
+    color: rgb(7, 7, 7);
+}
+
+.two {
+    height: 75px;
+    width: 800px;
+    background: rgb(109, 243, 91);
+}
+
+.two1 {
+    height: 75px;
+    width: 400px;
+    background: rgb(4, 113, 133);
+    float: left;
+}
+
+.twoOne {
+    height: 37.5px;
+    width: 400px;
+    background: #F50057;
+}
+
+.twoTwo {
+    height: 37.5px;
+    width: 400px;
+    background: #0D47A1;
+}
+
+.two2 {
+    height: 75px;
+    width: 400px;
+    background: rgb(150, 86, 3);
+    float: left;
+}
+
+.two2 img {
+    height: 75px;
+    width: 399px;
+    border-right: 1px solid black;
+}
+
+
+/* ---------------------3rd row work------------------------ */
+
+.row3 {
+    height: 150px;
+    width: 800px;
+}
+
+.thirdA {
+    height: 150px;
+    width: 400px;
+    background: rgb(13, 4, 146);
+    float: left;
+}
+
+.thirdA img {
+    height: 150px;
+    width: 400px;
+}
+
+.thirdB {
+    height: 150px;
+    width: 400px;
+    background: rgb(219, 4, 94);
+    float: left;
+}
+
+.one1 {
+    height: 75px;
+    width: 400px;
+    background: rgb(219, 4, 94);
+}
+
+.firseOne {
+    height: 75px;
+    width: 200px;
+    background: rgb(219, 4, 94);
+    float: left;
+}
+
+.sumon1 {
+    height: 37.5px;
+    width: 200px;
+    background: rgb(4, 219, 15);
+}
+
+.sumon2 {
+    height: 37.5px;
+    width: 200px;
+    background: rgb(171, 189, 8);
+}
+
+.sumon3 {
+    height: 37.5px;
+    width: 100px;
+    background: rgb(3, 119, 94);
+    float: left;
+}
+
+.sumon4 {
+    height: 37.5px;
+    width: 100px;
+    background: rgb(224, 86, 6);
+    float: left;
+}
+
+.firstTwo {
+    height: 75px;
+    width: 200px;
+    background: rgb(4, 158, 219);
+    float: left;
+}
+
+.firstTwo img {
+    height: 75px;
+    width: 200px;
+}
+
+.one2 {
+    height: 75px;
+    width: 400px;
+    background: rgb(105, 31, 62);
+}
+
+.one2 img {
+    height: 74px;
+    width: 400px;
+    border-top: 1px solid white;
+}
